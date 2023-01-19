@@ -1,0 +1,16 @@
+@font-face {
+  font-family: InterB;
+  src: url("../fonts/static/Inter-Bold.ttf");
+}
+@font-face {
+  font-family: InterL;
+  src: url("../fonts/static/Inter-Light.ttf");
+}
+@font-face {
+  font-family: InterM;
+  src: url("../fonts/static/Inter-Medium.ttf");
+}
+@font-face {
+  font-family: InterR;
+  src: url("../fonts/static/Inter-Regular.ttf");
+}
